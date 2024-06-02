@@ -193,7 +193,7 @@ Please ensure that the `results_file` follows the specified JSON format stated a
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-@inproceedings{fu2024videomme,
+@article{fu2024videomme,
   title={Video-MME: The First-Ever Comprehensive Evaluation of Multi-modal LLMs in Video Analysis},
   author={Fu, Chaoyou and Dai, Yuhan and Luo, Yongdong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and Chen, Peixian and Li, Yanwei and Lin, Shaohui and Zhao, Sirui and Li, Ke and Xu, Tong and Zheng, Xiawu and Chen, Enhong and Ji, Rongrong and Sun, Xing},
   journal={arXiv preprint},
@@ -203,7 +203,7 @@ If you find our work helpful for your research, please consider citing our work.
 
 ## 📜 Related Works
 
-Explore our additional research on **Vidio-Language Large Models**:
+Explore our related researches:
 -  **[MME]** [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)
 -  **[Awesome-MLLM]** [A Survey on Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
