@@ -32,7 +32,7 @@ In the quest for artificial general intelligence, Multi-modal Large Language Mod
 * *Diversity in video types*, spanning **6 primary visual domains**, i.e., Knowledge, Film & Television, Sports Competition, Life Record, and Multilingual, with **30 subfields** to ensure broad scenario generalizability;
 * *Duration in temporal dimension*, encompassing both **short- (< 2min)**, **medium- (4min\~15min)**, and **long-term (30min\~60min)** videos, ranging from **11 seconds to 1 hour**, for robust contextual dynamics;
 * *Breadth in data modalities*, integrating multi-modal inputs besides video frames, including **subtitles and audios**, to assess the all-round capabilities of MLLMs;
-* *Quality in annotations*. **All data is newly collected and annotated by humans and does not originate from any pre-existing video dataset.**, ensuring diversity and quality. 
+* *Quality in annotations*. **All data are newly collected and annotated by humans, not from any existing video dataset**, ensuring diversity and quality. 
 
 
 <p align="center">
