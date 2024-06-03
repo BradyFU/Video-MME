@@ -22,7 +22,7 @@ If you have any question about the dataset, please feel free to email videomme20
 ---
 
 ## 🔥 News
-* **`2024.06.01`** 🌟 We are very proud to launch VideoMME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!
+* **`2024.06.03`** 🌟 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!
 
 
 
