@@ -156,7 +156,12 @@ To extract the answer and calculate the scores, we add the model response to the
 The evaluation does not introduce any third-party models, such as ChatGPT.
 
 ```bash
-python eval_your_results.py --results_file $YOUR_RESULTS_FILE --video_duration_type $VIDEO_DURATION_TYPE 
+python eval_your_results.py \
+    --results_file $YOUR_RESULTS_FILE \
+    --video_duration_type $VIDEO_DURATION_TYPE \
+    --return_categories_accuracy \
+    --return_sub_categories_accuracy \
+    --return_task_types_accuracy
 ```
 Please ensure that the `results_file` follows the specified JSON format stated above, and `video_duration_type` is specified as either `short`, `medium`, or `long`. If you wish to assess results across various duration types, you can specify multiple types separated by commas or organize them in a list, for example: `short,medium,long` or `["short","medium","long"]`.
 
