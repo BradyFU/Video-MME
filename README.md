@@ -65,9 +65,8 @@ If there is any infringement in Video-MME, please email videomme2024@gmail.com a
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Video-MME in whole or in part. 
 Video-MME can only be used if you agree the above restrictions.
 ```
-In the case that you strictly comply with the above license, you can find the content of Video-MME on [Google Drive](https://drive.google.com/file/d/1AHZQpuku14ETgxFiOpfe2OZ_5UN9-Q58/view?usp=drive_link). Otherwise, it is not allowed to click or use.
+In the case that you strictly comply with the above license, you can send an email to **videomme2024@gmail.com** to request access to Video-MME. Otherwise, it is not allowed to use.
 
-If you have any question, please feel free to email **videomme2024@gmail.com**.
 
 The content is structured in a JSON format, with each instance containing the following fields:
 
