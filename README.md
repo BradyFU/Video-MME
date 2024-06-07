@@ -53,7 +53,7 @@ In the quest for artificial general intelligence, Multi-modal Large Language Mod
 </div>
 
 
-## 🔍 Dataset Content
+## 🔍 Dataset
 
 **License**:
 ```
