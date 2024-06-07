@@ -47,53 +47,6 @@
         ]
     },
     {
-        "video_id": "003",
-        "duration_category": "short",
-        "video_category": "Knowledge",
-        "video_subcategory": "Humanity & History",
-        "questions": [
-            {
-                "question_id": "003-1",
-                "task_type": "Object Recognition",
-                "question": "Which of the following elements doesn't appear in the video?",
-                "choices": [
-                    "A. Cloud.",
-                    "B. Horse.",
-                    "C. Feather.",
-                    "D. Moon."
-                ],
-                "answer": "D",
-                "response": "A"
-            },
-            {
-                "question_id": "003-2",
-                "task_type": "Object Reasoning",
-                "question": "Which of the dying cause is not mentioned according to the video?",
-                "choices": [
-                    "A. Diseases .",
-                    "B. Hunger.",
-                    "C. Thirsty.",
-                    "D. Exposure."
-                ],
-                "answer": "C",
-                "response": "D"
-            },
-            {
-                "question_id": "003-3",
-                "task_type": "Counting Problem",
-                "question": "How many major routes are mentioned in the video?",
-                "choices": [
-                    "A. Four.",
-                    "B. Five.",
-                    "C. Two.",
-                    "D. One."
-                ],
-                "answer": "A",
-                "response": "A"
-            }
-        ]
-    },
-    {
         "video_id": "004",
         "duration_category": "short",
         "video_category": "Knowledge",
