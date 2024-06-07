@@ -15,9 +15,6 @@
 
 Video-MME applies to both **image MLLMs**, i.e., generalizing to multiple images, and **video MLLMs**. 🌟
 
-If you want to add your model in our leaderboard, please feel free to email bradyfu24@gmail.com. We will update the leaderboard in time. ✨
-
-If you have any question about the dataset, please feel free to email videomme2024@gmail.com. ✨
 
 ---
 
@@ -57,51 +54,18 @@ In the quest for artificial general intelligence, Multi-modal Large Language Mod
 
 
 ## 🔍 Dataset Content
+
 **License**:
 ```
 Video-MME is only used for academic research. Commercial use in any form is prohibited.
 The copyright of all videos belongs to the video owners.
 If there is any infringement in Video-MME, please email videomme2024@gmail.com and we will remove it immediately.
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Video-MME in whole or in part. 
-Video-MME can only be used if you agree the above restrictions.
+You must strictly comply with the above restrictions.
 ```
-In the case that you strictly comply with the above license, you can send an email to **videomme2024@gmail.com** to request access to Video-MME. Otherwise, it is not allowed to use.
 
+Please send an email to **videomme2024@gmail.com**. 🌟
 
-The content is structured in a JSON format, with each instance containing the following fields:
-
-```bash
-{
-  "video_id": "",  # The id of the video
-  "duration_category": "",  # short, medium, long
-  "video_category": "",  # The category of video
-  "video_sub_category": "",  # The sub-category of video
-  "url": "",  # The url of the video
-  "questions": [
-    {
-      "question_id": "",  # The id of the question
-      "task_type": "",  # The category of the question
-      "question": "",  # The question
-      "choices": ["", "", "", ""],  # The choices of the question
-      "answer": ""  # The answer of the question
-    },
-    {
-      "question_id": "",  # The id of the question
-      "task_type": "",  # The category of the question
-      "question": "",  # The question
-      "choices": ["", "", "", ""],  # The choices of the question
-      "answer": ""  # The answer of the question
-    },
-    {
-      "question_id": "",  # The id of the question
-      "task_type": "",  # The category of the question
-      "question": "",  # The question
-      "choices": ["", "", "", ""],  # The choices of the question
-      "answer": ""  # The answer of the question
-    },
-  ]
-}
-```
 
 ## 🔮 Evaluation Pipeline
 **Prompt**:
