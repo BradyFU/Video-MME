@@ -140,7 +140,7 @@ Please ensure that the `results_file` follows the specified JSON format stated a
 - **Evaluation results of different MLLMs across different task types.**
 
 <p align="center">
-    <img src="./asset/results_of_question_type.png" width="50%" height="50%">
+    <img src="./asset/results_of_question_types_0616.png" width="50%" height="50%">
 </p>
 
 - **Evaluation results of Gemini 1.5 Pro across different video duration types.**
