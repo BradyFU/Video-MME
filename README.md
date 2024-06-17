@@ -69,6 +69,14 @@ Please send an email to **videomme2024@gmail.com**. 🌟
 
 
 ## 🔮 Evaluation Pipeline
+**Extract Frames and Subtitles**:
+
+With respect to the setting of adding subtitles, you should only use the subtitles corresponding to the sampled video frames.
+For example, if you extract 10 frames per video for evaluation, take the 10 subtitles that corresponding to the time of those 10 frames.
+
+If you have already prepared the video and subtitle file, you could refer to [this script](https://github.com/look4u-ok/video-slicer) to extract the image and subtitles.
+
+
 **Prompt**:
 
 The common prompt used in our evaluation follows this format:
