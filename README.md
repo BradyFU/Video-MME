@@ -171,10 +171,10 @@ Please ensure that the `results_file` follows the specified JSON format stated a
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-@article{fu2024videomme,
-  title={Video-MME: The First-Ever Comprehensive Evaluation of Multi-modal LLMs in Video Analysis},
-  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yongdong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and Chen, Peixian and Li, Yanwei and Lin, Shaohui and Zhao, Sirui and Li, Ke and Xu, Tong and Zheng, Xiawu and Chen, Enhong and Ji, Rongrong and Sun, Xing},
-  journal={arXiv preprint},
+@article{fu2024video,
+  title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis},
+  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yondong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
+  journal={arXiv preprint arXiv:2405.21075},
   year={2024}
 }
 ```
