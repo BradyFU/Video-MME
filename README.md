@@ -69,7 +69,7 @@ Please send an email to **videomme2024@gmail.com**. 🌟
 
 
 ## 🔮 Evaluation Pipeline
-**Extract Frames and Subtitles**:
+📍 **Extract Frames and Subtitles**:
 
 With respect to the setting of adding subtitles, you should only use the subtitles corresponding to the sampled video frames.
 For example, if you extract 10 frames per video for evaluation, take the 10 subtitles that corresponding to the time of those 10 frames.
@@ -77,7 +77,7 @@ For example, if you extract 10 frames per video for evaluation, take the 10 subt
 If you have already prepared the video and subtitle file, you could refer to [this script](https://github.com/look4u-ok/video-slicer) to extract the image and subtitles.
 
 
-**Prompt**:
+📍 **Prompt**:
 
 The common prompt used in our evaluation follows this format:
 
@@ -122,7 +122,7 @@ The best answer is:
 </details>
 
 
-**Evaluation**: 
+📍 **Evaluation**: 
 
 To extract the answer and calculate the scores, we add the model response to the provided JSON file. Here we provide an example template [output_test_template.json](./evaluation/output_test_template.json). Once you have prepared the model responses in this format, please execute our evaluation script [eval_your_results.py](./evaluation/eval_your_results.py), and you will get the accuracy scores across video_durations, video domains, video subcategories, and task types. 
 The evaluation does not introduce any third-party models, such as ChatGPT.
