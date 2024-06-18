@@ -126,7 +126,7 @@ The best answer is:
 
 📍 **Evaluation**: 
 
-To extract the answer and calculate the scores, we add the model response to a JSON file. Here we provide an [example template](./evaluation/output_test_template.json). Once you have prepared the model responses in this format, please refer to the [evaluation script](https://github.com/thanku-all/parse_answer/blob/main/eval_your_results.py), and you will get the accuracy scores across video_durations, video domains, video subcategories, and task types. 
+To extract the answer and calculate the scores, we add the model response to a JSON file. Here we provide an [example template](./evaluation/output_test_template.json). Once you have prepared the model responses in this format, please refer to the evaluation script [eval_your_results.py](https://github.com/thanku-all/parse_answer/blob/main/eval_your_results.py), and you will get the accuracy scores across video_durations, video domains, video subcategories, and task types. 
 The evaluation does not introduce any third-party models, such as ChatGPT.
 
 ```bash
