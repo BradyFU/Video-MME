@@ -71,11 +71,12 @@ Please send an email to **videomme2024@gmail.com**. 🌟
 ## 🔮 Evaluation Pipeline
 📍 **Extract Frames and Subtitles**:
 
+There are a total of **900 videos** and **744 subtitles**, where all long videos have subtitles.
+
 With respect to the setting of adding subtitles, you should only use the subtitles corresponding to the sampled video frames.
 For example, if you extract 10 frames per video for evaluation, take the 10 subtitles that corresponding to the time of those 10 frames.
 
-There are a total of 900 videos and 744 subtitles, where all long videos have subtitles.
-If you have already prepared the video and subtitle file, you could refer to [this script](https://github.com/look4u-ok/video-slicer) to extract the frames and subtitles.
+If you have already prepared the video and subtitle file, you could refer to [this script](https://github.com/look4u-ok/video-slicer) to extract the frames and corresponding subtitles.
 
 
 📍 **Prompt**:
