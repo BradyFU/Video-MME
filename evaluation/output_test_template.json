@@ -1,143 +1,143 @@
 [
     {
+        "video_id": "001",
+        "duration": "short",
+        "domain": "Knowledge",
+        "sub_category": "Humanity & History",
+        "questions": [
+            {
+                "question_id": "001-1",
+                "task_type": "Counting Problem",
+                "question": "When demonstrating the Germany modern Christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number?",
+                "options": [
+                    "A. Apples.",
+                    "B. Candles.",
+                    "C. Berries.",
+                    "D. The three kinds are of the same number."
+                ],
+                "answer": "C",
+                "response": "C. Berries.",
+            },
+            {
+                "question_id": "001-2",
+                "task_type": "Information Synopsis",
+                "question": "What is the genre of this video?",
+                "options": [
+                    "A. It is a news report that introduces the history behind Christmas decorations.",
+                    "B. It is a documentary on the evolution of Christmas holiday recipes.",
+                    "C. It is a travel vlog exploring Christmas markets around the world.",
+                    "D. It is a tutorial on DIY Christmas ornament crafting."
+                ],
+                "answer": "A",
+                "response": "D.",
+            },
+            {
+                "question_id": "001-3",
+                "task_type": "Counting Problem",
+                "question": "How many red socks are above the fireplace at the end of this video?",
+                "options": [
+                    "A. 1.",
+                    "B. 4.",
+                    "C. 2.",
+                    "D. 3."
+                ],
+                "answer": "D",
+                "response": "D. 3",
+            }
+        ]
+    },
+    {
         "video_id": "002",
-        "duration_category": "short",
-        "video_category": "Knowledge",
-        "video_subcategory": "Humanity & History",
+        "duration": "short",
+        "domain": "Knowledge",
+        "sub_category": "Humanity & History",
         "questions": [
             {
                 "question_id": "002-1",
                 "task_type": "Object Recognition",
                 "question": "Which of the following features/items is not discussed in the video in relation to the tomb?",
-                "choices": [
+                "options": [
                     "A. Inkstone.",
                     "B. Niche.",
                     "C. Jade.",
                     "D. Sacrificial table."
                 ],
                 "answer": "C",
-                "response": "A"
+                "response": "Answer: C. Jade.",
             },
             {
                 "question_id": "002-2",
                 "task_type": "Action Reasoning",
                 "question": "Which of the following reasons motivated the archaeologists to excavate the tomb?",
-                "choices": [
+                "options": [
                     "A. Because it's from Ming Dynasty and of specific archaeological significance.",
                     "B. Because a new railway line will be built nearby.",
                     "C. Because there were treasures inside the tomb.",
                     "D. Highway realignment."
                 ],
                 "answer": "D",
-                "response": "C"
+                "response": "D",
             },
             {
                 "question_id": "002-3",
                 "task_type": "Counting Problem",
                 "question": "How many porcelain jars were discovered in the niches located in the primary chamber of the tomb?",
-                "choices": [
+                "options": [
                     "A. 4.",
                     "B. 9.",
                     "C. 5.",
                     "D. 13."
                 ],
                 "answer": "B",
-                "response": "B"
+                "response": "D. 13",
             }
         ]
     },
     {
-        "video_id": "004",
-        "duration_category": "short",
-        "video_category": "Knowledge",
-        "video_subcategory": "Humanity & History",
+        "video_id": "003",
+        "duration": "short",
+        "domain": "Knowledge",
+        "sub_category": "Humanity & History",
         "questions": [
             {
-                "question_id": "004-1",
-                "task_type": "Temporal Perception",
-                "question": "According to the video, which of the following is considered the earliest stage of human evolution?",
-                "choices": [
-                    "A. Ramapithecus.",
-                    "B. Dryopithecus.",
-                    "C. Ardipithecus Ramidus.",
-                    "D. Homo Sapiens."
-                ],
-                "answer": "B",
-                "response": "C"
-            },
-            {
-                "question_id": "004-2",
-                "task_type": "Object Recognition",
-                "question": "According to the video, in which state did human's ancestors first begin to walk on two legs?",
-                "choices": [
-                    "A. Dryopithecus.",
-                    "B. Ramapithecus.",
-                    "C. Ardipithecus Ramidus.",
-                    "D. Homo Habilis."
-                ],
-                "answer": "B",
-                "response": "D"
-            },
-            {
-                "question_id": "004-3",
-                "task_type": "Object Recognition",
-                "question": "Given the information provided by the video, during which stage of human evolution did the regression of body hair occur rapidly?",
-                "choices": [
-                    "A. Dryopithecus.",
-                    "B. Homo Sapiens.",
-                    "C. Ardipithecus Ramidus.",
-                    "D. Homo Sapiens Neanderthalensi."
-                ],
-                "answer": "D",
-                "response": "C"
-            }
-        ]
-    },
-    {
-        "video_id": "005",
-        "duration_category": "short",
-        "video_category": "Knowledge",
-        "video_subcategory": "Humanity & History",
-        "questions": [
-            {
-                "question_id": "005-1",
+                "question_id": "003-1",
                 "task_type": "Counting Problem",
-                "question": "According to the video, how many individuals were in the car when Archduke Franz Ferdinand was assassinated?",
-                "choices": [
-                    "A. Three.",
-                    "B. Two.",
-                    "C. One.",
-                    "D. Four."
-                ],
-                "answer": "A",
-                "response": "A."
-            },
-            {
-                "question_id": "005-2",
-                "task_type": "Action Reasoning",
-                "question": "What's the trigger that set off the war mentioned in the video?",
-                "choices": [
-                    "A. Militarisim.",
-                    "B. The assasination of Archduke Franze Fredinand.",
-                    "C. King Edward III of England's claim to the French throne.",
-                    "D. Germany's blitzkrieg against Poland."
+                "question": "How many national flags appear in the video?",
+                "options": [
+                    "A. 3.",
+                    "B. 4.",
+                    "C. 2.",
+                    "D. 5."
                 ],
                 "answer": "B",
-                "response": "B"
+                "response": "B",
             },
             {
-                "question_id": "005-3",
-                "task_type": "Attribute Perception",
-                "question": "Which of the following options is incorrect regarding the events in Sarajevo depicted in the video?",
-                "choices": [
-                    "A. It was organized by the Black Hand in Serbia.",
-                    "B. Ferdinand was sitting on the left side of the car.",
-                    "C. Ferdinand was wearing a white hat.",
-                    "D. The killer was wearing black suit."
+                "question_id": "003-2",
+                "task_type": "Object Recognition",
+                "question": "What is the video telling when the burger placed in the upper right corner at the end of the video first appears?",
+                "options": [
+                    "A. Beef with spices came from Russia to Germany.",
+                    "B. The steak began to be sandwiched between two pieces of bread.",
+                    "C. Steak burgers spread throughout the United States.",
+                    "D. The standardization of hamburgers."
                 ],
                 "answer": "C",
-                "response": "A"
+                "response": "C.",
+            },
+            {
+                "question_id": "003-3",
+                "task_type": "Object Reasoning",
+                "question": "In which country is the food featured in the video recognized worldwide?",
+                "options": [
+                    "A. Mongolia.",
+                    "B. Russia.",
+                    "C. Germany.",
+                    "D. United States."
+                ],
+                "answer": "D",
+                "response": "D. United States.",
             }
         ]
-    }
+    },
 ]
