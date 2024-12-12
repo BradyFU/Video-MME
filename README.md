@@ -19,7 +19,7 @@ Video-MME applies to both **image MLLMs**, i.e., generalizing to multiple images
 ---
 
 ## 🔥 News
-* **`2024.12.08`** 🌟 We have very proud to launch [MME-Survey](https://arxiv.org/pdf/2411.15296), a comprehensive survey on evaluation of Multimodal LLMs! 🔥🔥
+* **`2024.12.08`** 🌟 We are very proud to launch [MME-Survey](https://arxiv.org/pdf/2411.15296), a comprehensive survey on evaluation of Multimodal LLMs! 🔥🔥
 * **`2024.06.15`** 🌟 We have refreshed our evaluation: 1) replace broken and potentially broken video links, and re-annotated them; 2) GPT-4o now samples 384 frames (previously 10 from the website) at 512x512 resolution, boosting overall accuracy to 71.9%.
 * **`2024.06.03`** 🌟 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!
 
@@ -184,10 +184,24 @@ If you find our work helpful for your research, please consider citing our work.
   year={2024}
 }
 
+@article{fu2023mme,
+  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
+  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
+  journal={arXiv preprint arXiv:2306.13394},
+  year={2023}
+}
+
 @article{fu2024mme,
   title={MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs},
   author={Fu, Chaoyou and Zhang, Yi-Fan and Yin, Shukang and Li, Bo and Fang, Xinyu and Zhao, Sirui and Duan, Haodong and Sun, Xing and Liu, Ziwei and Wang, Liang and others},
   journal={arXiv preprint arXiv:2411.15296},
+  year={2024}
+}
+
+@article{zhang2024mme,
+  title={MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?},
+  author={Zhang, Yi-Fan and Zhang, Huanyu and Tian, Haochen and Fu, Chaoyou and Zhang, Shuangqing and Wu, Junfei and Li, Feng and Wang, Kun and Wen, Qingsong and Zhang, Zhang and others},
+  journal={arXiv preprint arXiv:2408.13257},
   year={2024}
 }
 ```
@@ -195,6 +209,8 @@ If you find our work helpful for your research, please consider citing our work.
 ## 📜 Related Works
 
 Explore our related researches:
--  **[MME]** [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)
+-  **[MME-Survey]** [MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2411.15296)
+-  **[MME]** [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394)
+-  **[MME-RealWorld]** [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](https://arxiv.org/pdf/2408.13257)
 -  **[Awesome-MLLM]** [A Survey on Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
