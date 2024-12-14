@@ -15,11 +15,12 @@
 
 Video-MME applies to both **image MLLMs**, i.e., generalizing to multiple images, and **video MLLMs**. 🌟
 
+We are very proud to launch [**MME-Survey**](https://arxiv.org/pdf/2411.15296) (jointly introduced by **MME**, **MMBench**, and **LLaVA** teams), a comprehensive survey on evaluation of Multimodal LLMs! 🔥🔥
+
 
 ---
 
 ## 🔥 News
-* **`2024.12.08`** 🌟 We are very proud to launch [MME-Survey](https://arxiv.org/pdf/2411.15296) (jointly introduced by **MME**, **MMBench**, and **LLaVA** teams), a comprehensive survey on evaluation of Multimodal LLMs! 🔥🔥
 * **`2024.06.15`** 🌟 We have refreshed our evaluation: 1) replace broken and potentially broken video links, and re-annotated them; 2) GPT-4o now samples 384 frames (previously 10 from the website) at 512x512 resolution, boosting overall accuracy to 71.9%.
 * **`2024.06.03`** 🌟 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!
 
