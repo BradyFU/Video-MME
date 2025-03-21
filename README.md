@@ -58,7 +58,7 @@ In the quest for artificial general intelligence, Multi-modal Large Language Mod
 ## 🔮 Evaluation Pipeline
 📍 **Extract Frames and Subtitles**:
 
-There are a total of **900 videos** and **744 subtitles**, where all long videos have subtitles.
+There are a total of 900 videos and 744 subtitles, where all long videos have subtitles.
 
 With respect to the setting of adding subtitles, you should only use the subtitles corresponding to the sampled video frames.
 For example, if you extract 10 frames per video for evaluation, take the 10 subtitles that corresponding to the time of those 10 frames.
