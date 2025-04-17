@@ -21,6 +21,8 @@ We are very proud to launch [**MME-Survey**](https://arxiv.org/pdf/2411.15296) (
 ---
 
 ## 🔥 News
+* **`2025.04.14`** 🌟 Video-MME has been introduced and used by [**OpenAI GPT-4.1**](https://openai.com/index/gpt-4-1/)  as an "industry standard measure" of long context ability.
+* **`2025.02.27`** 🌟 Video-MME has been accepted by CVPR 2025.
 * **`2024.06.15`** 🌟 We have refreshed our evaluation: 1) replace broken and potentially broken video links, and re-annotated them; 2) GPT-4o now samples 384 frames (previously 10 from the website) at 512x512 resolution, boosting overall accuracy to 71.9%.
 * **`2024.06.03`** 🌟 We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis!
 
