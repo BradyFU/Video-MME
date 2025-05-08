@@ -21,6 +21,7 @@ We are very proud to launch [**MME-Survey**](https://arxiv.org/pdf/2411.15296) (
 ---
 
 ## 🔥 News
+* **`2025.05.06`** 🌟 [**Gemini 2.5 Pro**](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/) has used our Video-MME as the benchmark of video understanding: "Gemini 2.5 Pro delivers state-of-the-art video understanding, scoring 84.8% on the VideoMME benchmark".
 * **`2025.04.14`** 🌟 Video-MME has been introduced and used by [**OpenAI GPT-4.1**](https://openai.com/index/gpt-4-1/)  as an **"industry standard measure"** of long context ability.
 * **`2025.02.27`** 🌟 Video-MME has been accepted by CVPR 2025.
 * **`2024.06.15`** 🌟 We have refreshed our evaluation: 1) replace broken and potentially broken video links, and re-annotated them; 2) GPT-4o now samples 384 frames (previously 10 from the website) at 512x512 resolution, boosting overall accuracy to 71.9%.
